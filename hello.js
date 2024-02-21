@@ -27,3 +27,6 @@ console.log(typeof isHot);
 //lowercase
 var promise = 'I will be a Professional Programmer IN The future';
 console.log(promise.toLowerCase());
+console.log(promise.toUpperCase());
+console.log(promise.indexOf('a'))
+console.log(promise.split('Programmer'))
