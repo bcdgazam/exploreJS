@@ -23,3 +23,7 @@ console.log (name);
 var isHot = true;
 var isRich = false;
 console.log(typeof isHot);
+
+//lowercase
+var promise = 'I will be a Professional Programmer IN The future';
+console.log(promise.toLowerCase());
